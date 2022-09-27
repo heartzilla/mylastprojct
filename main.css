@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.back{
+    height: 32vh;
+    background-image: url(./images/back.png);
+   width: 460px;
+}
